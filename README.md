@@ -2,7 +2,7 @@
  
 # Wine Quality and Type Prediction
 
-This repository contains the Wine Quality and Type Prediction project where machine learning algorithms are used to predict the quality and type of wine. Here is the link to the [Jupyter Notebook](<insert-link-to-ipynb-file-here>).
+This repository contains the Wine Quality and Type Prediction project where machine learning algorithms are used to predict the quality and type of wine.Predicting wine quality and type helps winemakers make better wine, decide prices, and figure out what kind of wine people like. It also helps customers choose good wine and makes it easier for stores to pick which wines to sell. 
 
 ## Introduction
 This project consists of two separate parts, both focusing on predicting different aspects of wine using various machine learning models. The dataset contains different chemical properties of wines. The first part aims to classify wines into two categories based on quality - good and bad, while the second part predicts the type of wine.
